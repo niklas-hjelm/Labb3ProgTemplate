@@ -1,4 +1,4 @@
-# abb3
+# Labb3
 Du har fått i uppgift att färdigställa en WPF-applikation som representerar en butik.
 
 I applikationen ska alla listor och knappar ha passande funktionalitet. Exempel:
